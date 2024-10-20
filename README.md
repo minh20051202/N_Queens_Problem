@@ -29,3 +29,10 @@ Step 3: Compile code
 g++ N_Queens_1.cpp -o N_Queens_1
 g++ N_Queens_2.cpp -o N_Queens_2
 ```
+
+Step 4: Run code
+
+```
+./N_Queens_1
+./N_Queens_2
+```
