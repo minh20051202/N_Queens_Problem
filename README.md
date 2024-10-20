@@ -4,7 +4,6 @@
 
 ```
 git clone https://github.com/minh20051202/N_Queens_Problem
-
 ```
 
 ## Installing C++
