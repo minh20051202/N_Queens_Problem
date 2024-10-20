@@ -15,14 +15,12 @@ Step 1: Install the Build-Essential Package
 
 ```
 sudo apt update && sudo apt install build-essential
-
 ```
 
 Step 2: Verify Installation
 
 ```
 g++ --version
-
 ```
 
 Step 3: Compile code
@@ -30,5 +28,4 @@ Step 3: Compile code
 ```
 g++ N_Queens_1.cpp -o N_Queens_1
 g++ N_Queens_2.cpp -o N_Queens_2
-
 ```
